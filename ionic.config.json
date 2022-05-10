@@ -1,0 +1,7 @@
+{
+  "name": "ionic-poc2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
