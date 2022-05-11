@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
+  appId: 'com.vika.ionic-test',
   appName: 'ionic-poc2',
   webDir: 'build',
   bundledWebRuntime: false
