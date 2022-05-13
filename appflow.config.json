@@ -2,7 +2,7 @@
   "apps":
   [
       {
-          "appId": "com.vika.ionic-test",
+          "appId": "42e5cfb5",
           "root": "packages/ionic-poc2",
           "dependencyInstallCommand": "cd ../.. && yarn install"
       }
