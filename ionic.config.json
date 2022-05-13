@@ -1,7 +1,13 @@
 {
-  "name": "ionic-poc2",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react"
+  "defaultProject": "ionic-poc2",
+  "projects": {
+    "ionic-poc2": {
+      "name": "ionic-poc2",
+      "integrations": {
+        "capacitor": {}
+      },
+      "type": "react",
+      "root": "packages/ionic-poc2"
+    }
+  }
 }
